@@ -1,10 +1,21 @@
-## doritovz
+<!-- 
+Filename: README.md
+doritovz/README.md
+-->
+<h2 align="left">doritovz</h2>
+<hr align="left" width="35%">
+<p align="left">
+<samp><br>
+💀 13 y/o dev 💀<br>
+i like coding exploits<br>
+most my repos are private<br>
+Main coding languages:<br>
+<strong>HTML, CSS, Javascript, Python, XML, Node JS, Batch</strong><br>
+Learning:<br>
+<strong>C, C++, C#</strong><br><br>
 
-* mainly develop roblox beaming methods, sometimes other things
-* currently learning html, javascript, css, and python
-* i don't plan on working fulltime as a developer thats just goofy
-
-please dont just stalk my github to leak methods, thats insanely nerdy man just make your own methods
-i literally had to make a new github because people kept leaking my stuff
-
-if you want, contact me with discord: **dorito#9095**
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=doritovz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="doritovz" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=doritovz&show_icons=true&locale=en&theme=chartreuse-dark" alt="doritovz" /></p>
+ 
+</samp>
+ </p>
