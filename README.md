@@ -3,7 +3,6 @@ Filename: README.md
 doritovz/README.md
 -->
 <h2 align="left">doritovz</h2>
-<hr align="left" width="35%">
 <p align="left">
 <samp><br>
 💀 13 y/o dev 💀<br>
