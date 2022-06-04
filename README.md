@@ -4,7 +4,7 @@ doritovz/README.md
 -->
 <h2 align="left">doritovz</h2>
 <p align="left">
-<samp><br>
+<samp>
 💀 13 y/o dev 💀<br>
 i like coding exploits<br>
 most my repos are private<br>
