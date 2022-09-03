@@ -5,8 +5,7 @@ doritovz/README.md
 <h2 align="left">doritovz</h2>
 <p align="left">
 <samp>
-i like coding exploits<br>
-most my repos are private<br>
+also known as zj or dorito<br>
 Main coding languages:<br>
 <strong>HTML, CSS, Javascript, Python, XML, Node JS, Batch, C#</strong><br>
 Learning:<br>
