@@ -7,7 +7,7 @@ doritovz/README.md
 <samp>
 also known as zj or dorito<br>
 Main coding languages:<br>
-<strong>HTML, CSS, Javascript, Python, XML, Node JS, Batch, C#</strong><br>
+<strong>HTML, CSS, Javascript, PHP, SQL, mySQL Python, XML, Node JS, Batch, C#</strong><br>
 Learning:<br>
 <strong>C, C++</strong><br><br>
 
