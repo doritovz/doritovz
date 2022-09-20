@@ -18,7 +18,7 @@ ive been programming for 6+ years
    <td class="tg-0pky"><span style="font-weight:bold"><b>Main coding languages</b></span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">HTML, CSS, Javascript, PHP, SQL, mySQL Python, XML, Node JS, Powershell, Batch, C#</td>
+    <td class="tg-0pky">HTML, CSS, Javascript, TypeScript, PHP, SQL, mySQL Python, XML, Node JS, Powershell, Batch, C#</td>
   </tr>
   <tr>
    <td class="tg-0pky"><span style="font-weight:bold"><b>Learning</b></span></td>
