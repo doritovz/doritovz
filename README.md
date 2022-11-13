@@ -24,7 +24,7 @@ ive been programming for 6+ years
    <td class="tg-0pky"><span style="font-weight:bold"><b>Learning</b></span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">C, C++, Rust</td>
+    <td class="tg-0pky">Rust, TailwindCSS</td>
   </tr>
 </tbody>
 </table>
