@@ -6,7 +6,8 @@ doritovz/README.md
 <p align="left">
 <samp>
 also known as zj or dorito<br>
-ive been programming for 6+ years
+ive been programming for over 6 years
+i work @ project GAMEBOX
 <table class="tg">
 <thead>
   <tr>
